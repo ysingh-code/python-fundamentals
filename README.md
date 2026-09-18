@@ -12,9 +12,9 @@ The goal is to understand Python fundamentals by writing and experimenting with 
 | -- | --------------------------- | -------------- |
 | 01 | Basics                      | ✅ Completed   |
 | 02 | Operators                   | ✅ Completed   |
-| 03 | Conditional Statements      | ✅ Completed  |
-| 04 | Loops                       | 🔄 In Progress   |
-| 05 | Functions                   | ⬜ Upcoming     |
+| 03 | Conditional Statements      | ✅ Completed   |
+| 04 | Loops                       | ✅ Completed   |
+| 05 | Functions                   | 🔄 In Progress  |
 | 06 | Data Structures             | ⬜ Upcoming     |
 | 07 | Exception Handling          | ⬜ Upcoming     |
 | 08 | Modules & Packages          | ⬜ Upcoming     |
