@@ -21,6 +21,12 @@ The goal is to understand Python fundamentals by writing and experimenting with 
 | 09 | Object-Oriented Programming | ⬜ Upcoming     |
 
 ---
+## 🚀Projects
+-**Number Analyzer**- A Python mini-project that analyzes different properties of a number
+
+
+---
+
 
 ## 📁 Repository Structure
 
