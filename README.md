@@ -14,11 +14,11 @@ The goal is to understand Python fundamentals by writing and experimenting with 
 | 02 | Operators                   | ✅ Completed   |
 | 03 | Conditional Statements      | ✅ Completed   |
 | 04 | Loops                       | ✅ Completed   |
-| 05 | Functions                   | 🔄 In Progress  |
-| 06 | Data Structures             | ⬜ Upcoming     |
-| 07 | Exception Handling          | ⬜ Upcoming     |
-| 08 | Modules & Packages          | ⬜ Upcoming     |
-| 09 | Object-Oriented Programming | ⬜ Upcoming     |
+| 05 | Functions                   | ✅ Completed   |
+| 06 | Data Structures             | 🔄 In Progres  |
+| 07 | Exception Handling          | ⬜ Upcoming    |
+| 08 | Modules & Packages          | ⬜ Upcoming    |
+| 09 | Object-Oriented Programming | ⬜ Upcoming    |
 
 ---
 ## 🚀Projects
